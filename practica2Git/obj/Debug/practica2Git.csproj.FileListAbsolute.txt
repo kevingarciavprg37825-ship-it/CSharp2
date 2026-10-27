@@ -1,0 +1,7 @@
+C:\Users\CC2_PC21\charp2\practica2Git\bin\Debug\practica2Git.exe
+C:\Users\CC2_PC21\charp2\practica2Git\bin\Debug\practica2Git.pdb
+C:\Users\CC2_PC21\charp2\practica2Git\obj\Debug\practica2Git.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC21\charp2\practica2Git\obj\Debug\practica2Git.MainForm.resources
+C:\Users\CC2_PC21\charp2\practica2Git\obj\Debug\practica2Git.csproj.GenerateResource.Cache
+C:\Users\CC2_PC21\charp2\practica2Git\obj\Debug\practica2Git.exe
+C:\Users\CC2_PC21\charp2\practica2Git\obj\Debug\practica2Git.pdb
