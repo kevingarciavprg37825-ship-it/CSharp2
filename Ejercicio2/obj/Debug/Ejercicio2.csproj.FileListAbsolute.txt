@@ -1,0 +1,7 @@
+C:\Users\lenovo\Sharp2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\lenovo\Sharp2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\lenovo\Sharp2\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Sharp2\Ejercicio2\obj\Debug\Ejercicio2.MainForm.resources
+C:\Users\lenovo\Sharp2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.Cache
+C:\Users\lenovo\Sharp2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\lenovo\Sharp2\Ejercicio2\obj\Debug\Ejercicio2.pdb
